@@ -23,3 +23,7 @@ source $ZSH/oh-my-zsh.sh
 
 path=($HOME/.bin /usr/local/bin /usr/local/sbin /usr/local/mysql/bin /usr/local/git/bin $path)
 manpath=(/usr/local/man /usr/local/mysql/man /usr/local/git/man $manpath)
+
+# NVM
+export NVM_DIR="$HOME/.nvm"
+  . "/usr/local/opt/nvm/nvm.sh"
