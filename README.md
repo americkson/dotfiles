@@ -1,17 +1,10 @@
 # Installation #
 
-	git clone git://github.com/aerickson/dotfiles.git ~/.dotfiles
+	git clone git@github.com:americkson/dotfiles.git ~/.dotfiles
 	cd ~/.dotfiles
 	git submodule init
 	git submodule update
 	rake install
-
-## Ruby Version Manager ##
-
-	chmod +x ~/.rvm/src/rvm/install
-	~/.rvm/src/rvm/install
-	source ~/.rvm/scripts/rvm
-	rvm install 1.9.2
 
 # Environment #
 

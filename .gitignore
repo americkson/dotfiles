@@ -6,6 +6,6 @@
 .projectOptions
 .settings
 .buildpath
+.idea
 nbproject
 ssh-aliases.zsh
-rvm/*
